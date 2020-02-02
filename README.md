@@ -1,7 +1,5 @@
 # Projet_AppServeur
 
-[Projet Java.pdf](assets/Projet_Java.pdf)
-
 ## Résumé du projet :
 
 Une librairie souhaite developper une application pour permètre à ses utilisateurs de pourvoir '**réserver**' un document en ligne. Une fois réservé le document n'est qu'uniquement empruntable sur place à l'utilisateur qui l'a reservé, on peut cependant toujours **'emprunter'** un document sur place sans avoir à le reserver. L'application devra aussi gérer les '**retours'** des documents sur place par ceux qui les ont empruntés. 
